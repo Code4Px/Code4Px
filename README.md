@@ -1,6 +1,6 @@
 # 👋 Привет, я PankofID!
 
-Я начинающий разработчик на **Python** и **Веб-технологиях**.  
+Я начинающий разработчик на **Python** и **Веб-приложениях**.  
 Интересуюсь созданием сайтов, ботов и автоматизацией процессов.
 
 ---
@@ -38,16 +38,16 @@
 ---
 
 ### 📊 Статистика GitHub
-![Stats](https://github-readme-stats.vercel.app/api?username=DanVolov&show_icons=true&theme=transparent&hide_title=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DanVolov&layout=compact&theme=transparent)
+![Stats](https://github-readme-stats.vercel.app/api?username=pankofid&show_icons=true&theme=transparent&hide_title=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pankofid&layout=compact&theme=transparent)
 
 ---
 
 ### 📫 Контакты
 - **VK:** [@d.pankov3](https://vk.com/d.pankov3)
-- **Telegram:** [@Volerians](https://t.me/Volerians)
-- **X (Twitter):** [@DanVolov99319](https://x.com/DanVolov99139)
+- **Telegram:** [@PankofID](https://t.me/pankofid)
+- **X (Twitter):** [@PankofID](https://x.com/pankofid)
 - **YouTube:** [@VolerianGovernments](https://youtube.com/@voleriangovernments)
-- **Instagram:** [@danvolov](https://www.instagram.com/danvolov)
+- **Instagram:** [@pankofid](https://www.instagram.com/pankofid)
 
 ---
